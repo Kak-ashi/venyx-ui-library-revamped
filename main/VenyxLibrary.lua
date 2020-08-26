@@ -1,3 +1,12 @@
+--[[
+
+	Note: The only revamps I plan on doing to this lib will be correcting any errors or adding features.
+	Full credit to Denosaur for creating the original project: https://v3rmillion.net/showthread.php?tid=1026479
+	~ kak-ashi
+
+]]--
+
+
 -- init
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
@@ -2167,5 +2176,4 @@ do
 	end
 end
 
-print("dino was here :\)")
 return library
